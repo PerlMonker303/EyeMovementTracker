@@ -6,6 +6,7 @@
 </p>
 
 <h2>Demo</h2>
+
 ![demoHaarCascadeImage](demoHaarCascade.png)
 
 <h3>Pipeline</h3>
